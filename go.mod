@@ -1,4 +1,4 @@
-module github.com/ev183/docker-clean-tool
+module github.com/ev183/docktor
 
 go 1.25.0
 
