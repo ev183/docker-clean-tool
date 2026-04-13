@@ -1,0 +1,35 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build output
+/bin/
+/build/
+/dist/
+
+# Go modules
+vendor/
+/go.sum
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
